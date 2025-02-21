@@ -1,6 +1,6 @@
 # github.io
 
-theme: jekyll-theme-cayman
+
 
 
 Artist's Home
