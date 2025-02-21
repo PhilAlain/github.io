@@ -1,4 +1,5 @@
 # github.io
+theme: jekyll-theme-CAYMAN
 Artist's Home
 
 Here is a selection of addresses in the neighborhood.
