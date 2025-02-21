@@ -1,5 +1,8 @@
 # github.io
+
 theme: jekyll-theme-cayman
+
+
 Artist's Home
 
 Here is a selection of addresses in the neighborhood.
