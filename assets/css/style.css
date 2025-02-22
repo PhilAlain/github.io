@@ -14,4 +14,7 @@ footer {
     background-repeat: no-repeat;
     background-color: transparent !important;
 }
+body {
+    background-color: red !important;
+}
 
