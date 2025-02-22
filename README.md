@@ -1,4 +1,9 @@
+---
+layout: default
+title: My GitHub Pages Site
+---
 # Artist's Home
+
 
 
 
