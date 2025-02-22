@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My GitHub Pages Site
+title: Artist's Home
 ---
 # Artist's Home
 
