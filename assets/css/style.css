@@ -8,7 +8,7 @@ footer {
 }
 /* Change the banner background */
 .site-header {
-    background-image: url('/docs/images/banner_1.jpg') !important;
+    background-image: url('https://philalain.github.io/docs/images/banner_1.jpg') !important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
