@@ -6,4 +6,11 @@
 footer {
   display: none !important;
 }
+/* Change the banner background */
+.header {
+    background-image: url('/images/banner_1.jpg'); /* Use your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
